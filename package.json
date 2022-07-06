@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/dot/blog#readme",
   "devDependencies": {
+    "@types/node": "^18.0.3",
     "@types/react": "^18.0.15",
     "esbuild": "^0.14.48",
     "ts-node": "^10.8.2",
