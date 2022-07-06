@@ -16,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/dot/blog/issues"
   },
-  "homepage": "https://github.com/dot/blog#readme"
+  "homepage": "https://github.com/dot/blog#readme",
+  "devDependencies": {
+    "ts-node": "^10.8.2",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "next": "^12.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
 }
